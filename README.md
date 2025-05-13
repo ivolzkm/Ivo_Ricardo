@@ -2,7 +2,7 @@
 Um pouco sobre mim, minhas habilidades, projetos e como entrar em contato.
 
 
-# Olá! 👋 Eu sou o ivolzkm!
+# Olá! 👋 Eu sou o Ivo!
 
 <p align="left">
   Sou estudante de Graduação em <strong>Informática Biomédica</strong> na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).
@@ -51,7 +51,7 @@ Além disso, estou explorando por conta própria:
 * **Linguagens de Programação:** Python (Iniciante)
 * **Ferramentas de Versionamento:** Git, GitHub
 * **Conceitos Fundamentais:** Lógica de Programação, Estruturas de Dados (Básico)
-* **Interesses Acadêmicos/Profissionais:** [Ex: Análise de Dados em Saúde, Bioinformática, Desenvolvimento de Software para Diagnóstico, Inteligência Artificial Aplicada à Medicina - Escolha os que mais te interessam ou adicione outros]
+* **Interesses Acadêmicos/Profissionais:** Análise de Dados em Saúde, Bioinformática, Desenvolvimento de Software para Diagnóstico, Inteligência Artificial Aplicada à Medicina 
 
 ---
 
@@ -59,17 +59,9 @@ Além disso, estou explorando por conta própria:
 
 Como estou no início da minha jornada, esta seção será construída com os projetos que desenvolverei durante o curso e estudos pessoais. Por enquanto, estou focando em absorver o conhecimento fundamental!
 
-* **[Nome do Projeto de Algoritmos 1 - Ex: Calculadora de IMC Avançada]**
-    * *Descrição:* [Breve descrição do que o projeto faz e o que você aprendeu com ele. Ex: Implementação dos conceitos de estruturas condicionais e funções em Python para calcular o IMC e fornecer classificações.]
-    * *Tecnologias:* Python
-    * *Status:* [Em desenvolvimento / Concluído]
-    * 🔗 [Link para o Repositório AINDA NÃO CRIADO/PRIVADO ou # se não houver link público ainda]
 
-* **[Nome do Projeto de Introdução à Informática em Saúde - Ex: Análise Descritiva de Dados de Saúde Pública]**
-    * *Descrição:* [Breve descrição. Ex: Análise inicial de um conjunto de dados sobre [tema] utilizando planilhas ou scripts básicos em Python.]
-    * *Tecnologias:* [Excel, Python com Pandas (quando aprender)]
-    * *Status:* [Planejado / Em desenvolvimento]
-    * 🔗 [Link para o Repositório AINDA NÃO CRIADO/PRIVADO ou #]
+
+
 
 ---
 
@@ -87,7 +79,7 @@ Como estou no início da minha jornada, esta seção será construída com os pr
 ---
 
 
-# Hi there! 👋 I'm ivolzkm!
+# Hi there! 👋 I'm Ivo!
 
 <p align="left">
   I'm an undergraduate student of <strong>Biomedical Informatics</strong> at the Federal University of Health Sciences of Porto Alegre (UFCSPA) in Brazil.
@@ -114,10 +106,7 @@ I'm building a solid foundation with the following disciplines from my first sem
 * 🏥 **Introduction to Health Informatics:** Discovering the universe of data and systems in the context of healthcare.
 * 🧪 **General and Physical Chemistry:** Understanding the chemical basis of biological processes.
 
-Additionally, I'm independently exploring:
-* [Mention any technology, tool, or concept you're starting to study on your own, if any. E.g., Advanced Git/GitHub, introduction to Machine Learning, etc.]
 
----
 
 ## 🛠️ Skills and Technologies (Under Development)
 
@@ -136,7 +125,7 @@ Additionally, I'm independently exploring:
 * **Programming Languages:** Python (Beginner)
 * **Version Control Tools:** Git, GitHub
 * **Fundamental Concepts:** Programming Logic, Data Structures (Basic)
-* **Academic/Professional Interests:** [E.g., Health Data Analysis, Bioinformatics, Diagnostic Software Development, AI in Medicine - Choose what interests you most or add others]
+* **Academic/Professional Interests:** Health Data Analysis, Bioinformatics, Diagnostic Software Development, AI in Medicine 
 
 ---
 
@@ -144,17 +133,7 @@ Additionally, I'm independently exploring:
 
 As I'm at the beginning of my journey, this section will be built with the projects I'll develop during my course and personal studies. For now, I'm focusing on absorbing fundamental knowledge!
 
-* **[Algorithm Project Name 1 - E.g., Advanced BMI Calculator]**
-    * *Description:* [Brief description of what the project does and what you learned from it. E.g., Implementation of conditional structures and functions in Python to calculate BMI and provide classifications.]
-    * *Technologies:* Python
-    * *Status:* [In development / Completed]
-    * 🔗 [Link to Repository NOT YET CREATED/PRIVATE or # if no public link yet]
 
-* **[Intro to Health Informatics Project Name - E.g., Descriptive Analysis of Public Health Data]**
-    * *Description:* [Brief description. E.g., Initial analysis of a dataset on [topic] using spreadsheets or basic Python scripts.]
-    * *Technologies:* [Excel, Python with Pandas (when learned)]
-    * *Status:* [Planned / In development]
-    * 🔗 [Link to Repository NOT YET CREATED/PRIVATE or #]
 
 ---
 
@@ -166,7 +145,7 @@ As I'm at the beginning of my journey, this section will be built with the proje
   <a href="[YOUR_LINKEDIN_PROFILE_URL_HERE]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 
-* ✉️ **Email:** [your-email@example.com]
+* ✉️ **Email:** ivo.junior@ufcspa.edu.br
 * 🔗 **LinkedIn:** [YOUR_LINKEDIN_PROFILE_URL_HERE]
 
 ---
