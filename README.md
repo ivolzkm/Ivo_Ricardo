@@ -73,7 +73,7 @@ Como estou no início da minha jornada, esta seção será construída com os pr
   <a href="[SEU_LINK_DO_LINKEDIN_AQUI]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 
-* ✉️ **Email:** [seu-email@exemplo.com]
+* ✉️ **Email:** ivo.junior@ufcspa.edu.br
 * 🔗 **LinkedIn:** [SEU_LINK_DO_LINKEDIN_AQUI]
 
 ---
