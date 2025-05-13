@@ -74,7 +74,7 @@ Como estou no início da minha jornada, esta seção será construída com os pr
   </p>
 
 * ✉️ **Email:** ivo.junior@ufcspa.edu.br
-* 🔗 **LinkedIn:** [SEU_LINK_DO_LINKEDIN_AQUI]
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/ivo-ricardo-lozekam-junior-6944a1195/
 
 ---
 
@@ -146,6 +146,6 @@ As I'm at the beginning of my journey, this section will be built with the proje
   </p>
 
 * ✉️ **Email:** ivo.junior@ufcspa.edu.br
-* 🔗 **LinkedIn:** [YOUR_LINKEDIN_PROFILE_URL_HERE]
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/ivo-ricardo-lozekam-junior-6944a1195/
 
 ---
